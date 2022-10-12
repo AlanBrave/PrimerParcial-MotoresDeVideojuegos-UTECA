@@ -162,7 +162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   borders:
-    superiorBorder: 4.42
-    inferiorBorder: -4.42
-    leftBorder: -12.29
-    rightBorder: 12.29
+    superiorBorder: 9
+    inferiorBorder: -9
+    leftBorder: -19
+    rightBorder: 19
